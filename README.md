@@ -1,7 +1,7 @@
-yipeeeee.....
+Este es un curso muy corto y simplificado cuyo objetivo consiste en construir fundamentos sobre los cuales se pueda profundizar más adelante.
 
-xxxx 
+El formato del curso es en términos de cuadernos jupyter. AL abrir un cuaderno, google creará una carpeta denominada **Colab Notebooks**. 
 
-[Colab](https://colab.research.google.com/)
+Para aprender más acerca de los cuadernos jupyer y del servicio cloud sobre el que corren, sírvase hacer click en este enlace [Colab](https://colab.research.google.com/)
 
-yyyyy
+
