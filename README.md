@@ -5,4 +5,4 @@ El formato del curso es en términos de cuadernos jupyter. AL abrir un cuaderno,
 Para aprender más acerca de los cuadernos jupyer y del servicio cloud sobre el que corren, sírvase hacer click en este enlace [Colab](https://colab.research.google.com/)
 
 
-[xxxx](Cuadernos_Jupter/CL_I_ESTRUCTURAS_DE_DATOS_NATIVAS.ipynb)
+[xxxx](Cuadernos_Jupyter/CL_I_ESTRUCTURAS_DE_DATOS_NATIVAS.ipynb)
