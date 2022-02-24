@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="Pics/Newton's_Annotated_copy_of_his_Principia_Mathematica.jpg" width="445" title="hover text">
-  <img src="Pics/Venezuela_-_MERIS_7_March_2003.jpg" width="340" title="hover text">
+  <img src="PICS/Python-logo.png" width="445" title="hover text">
+  <img src="PICS/Python-logo.png" width="340" title="hover text">
   <img src="Pics/2560px-Playa_Colorada_Parque_Nacional_Mochima.jpg" width="445" title="hover text">
 </p>
 
