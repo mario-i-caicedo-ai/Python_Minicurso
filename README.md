@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="PICS/Python-logo.png" width="445" title="hover text">
+  <img src="PICS/Python-logo.png" width="340" title="hover text">
   <img src="PICS/Python_Code.jpeg" width="340" title="hover text">
 </p>
 
