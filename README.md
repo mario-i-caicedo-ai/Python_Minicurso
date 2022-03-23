@@ -51,7 +51,8 @@ Como he dicho a todos mis estudiantes desde hace más de 30 años, juegue con lo
 
 ## Recursos Cloud
 
-* Si desea tener una insatlación local de Python, le recomiendo que descarge [Anaconda](https://www.anaconda.com/), un ambiente que le permitirá tener acceso a todo el ecosistema de bibliotecas de Python
+* Si desea tener una insatlación local de Python, le recomiendo que descarge [Anaconda](https://www.anaconda.com/), un ambiente que le permitirá tener acceso a todo el ecosistema de bibliotecas de Python.
+* Si le interesa la ciencia de datos (CD) y el inglés no representa un obstáculo, [kaggle](https://www.kaggle.com/) una comunidad dedicada a la CD ofrece cursos y proyectos con datos reales que le permitirán entrenarse hasta alcanzar un muy buen nivel. 
 
 
 
