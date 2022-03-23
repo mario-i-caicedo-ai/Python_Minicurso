@@ -5,14 +5,15 @@
 
 ## Introducción
 
-### ¿Por qué Python? 
+### ¿Por qué [Python](https://www.python.org/)? 
 
-QAuizá una manera de responder sea en términos de las siguioentes consideraciones:
+Una manera de responder algo ingenua puede ser, considerando las siguientes declaraciones acerca del lenguaje:
 
-* EL creador del lenguaje lo diseño para ser facilmente leído por humanos.
+* EL creador de Python lo diseño para ser facilmente leído por humanos.
 * Para fines de 2021, la comunidad de usuarios/desarrolladores Python alcanzaba los 10.1 millones de personas.
-* Python es un lenguaje compacto que incluye ele,entos de los tres principlaes paradigmas de programación, imperartiva, OOP y programación funcional.
-* Empresas como Google, Netflix, Youtube, Facebook, Instagram, Pinterest y ¡hasta la Nasa! utilizan Python para un sinnúmero de aplicaciones. 
+* Python es un lenguaje compacto que incluye elementos de los tres principlaes paradigmas de programación, *imperartiva, OOP y programación funcional*.
+* Empresas como Google, Netflix, Youtube, Facebook, Instagram, Pinterest y ¡hasta la Nasa! utilizan Python para un sinnúmero de aplicaciones.
+* Y ... finalmente, el costo: Python es software libre 
 
 ### Descripción del curso
 
