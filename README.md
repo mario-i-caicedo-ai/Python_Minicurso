@@ -6,7 +6,11 @@
 
 Este es un curso muy corto y simplificado cuyo objetivo consiste en construir fundamentos sobre los cuales se pueda profundizar más adelante.
 
-El formato del curso es en términos de cuadernos jupyter que correran sobre el recurso cloud [Colab](https://colab.research.google.com/) de google. Al abrir un cuaderno, google creará una carpeta denominada **Colab Notebooks**. 
+El formato del curso es en términos de cuadernos jupyter que correran sobre el recurso cloud [Colab](https://colab.research.google.com/) de google. 
+
+Si usted está en un browerr en el que tenga abierta una cuenta de google, al abrir cualquiera de los cuadernos de este curso, google creará una carpeta denominada **Colab Notebooks** en su googledrive. Allí se almacenará una copia dell cuaderrno que usted puede utilizar a discrersión sin temor de estar dañando algo. 
+
+## Cuadernos del Curso
 
  [Introducción a Python y sus estructuras de datos nativas](Cuadernos_Jupyter/CL_I_ESTRUCTURAS_DE_DATOS_NATIVAS.ipynb)
 
