@@ -14,4 +14,4 @@ El formato del curso es en términos de cuadernos jupyter que correran sobre el 
 
 [Funciones en Python](Cuadernos_Jupyter/FUNCIONES_I.ipynb)
 
-[Pandas]()
+[Pandas](Cuadernos_Jupyter/Introduccion_a_PANDAS.ipynb)
