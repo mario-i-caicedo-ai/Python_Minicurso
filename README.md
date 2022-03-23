@@ -3,6 +3,7 @@
   <img src="PICS/python-que-es.jpg" width="445" title="hover text">
 </p>
 
+## Descripción
 
 Este es un curso muy corto y simplificado cuyo objetivo consiste en construir fundamentos sobre los cuales se pueda profundizar más adelante.
 
