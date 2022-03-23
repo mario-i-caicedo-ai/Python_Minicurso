@@ -8,7 +8,7 @@ Este es un curso muy corto y simplificado cuyo objetivo consiste en construir fu
 
 El formato del curso es en términos de cuadernos jupyter. AL abrir un cuaderno, google creará una carpeta denominada **Colab Notebooks**. 
 
-Para aprender más acerca de los cuadernos jupyer y del servicio cloud sobre el que corren, sírvase hacer click en este enlace [Colab](https://colab.research.google.com/)
+Para aprender más acerca de los cuadernos  jupyter y del servicio cloud sobre el que estaremos corriéndolos en este curso, sírvase hacer click en este enlace [Colab](https://colab.research.google.com/)
 
 
 [xxxx](Cuadernos_Jupyter/CL_I_ESTRUCTURAS_DE_DATOS_NATIVAS.ipynb)
