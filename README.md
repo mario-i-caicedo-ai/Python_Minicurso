@@ -23,7 +23,7 @@ El formato de este curso no requiere ninguna instalación de Python en su máqui
 
 Si usted tiene abierta una cuenta de google en su navegador (browser) de preferencia, al abrir cualquiera de los cuadernos de este curso, google creará para usted una carpeta denominada **Colab Notebooks** que aparecerá en su googledrive. Allí se almacenará una copia del cuaderno que usted abrió en primera instancia, copia que puede utilizar a discrersión sin temor de estar dañando algo de lo que se encuentra en el repositorio original. 
 
-## Cuadernos del Curso
+## Módulos y Cuadernos del Curso
 
  [Introducción a Python y sus estructuras de datos nativas](Cuadernos_Jupyter/CL_I_ESTRUCTURAS_DE_DATOS_NATIVAS.ipynb)
 
