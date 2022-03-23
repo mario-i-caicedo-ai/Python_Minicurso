@@ -39,9 +39,9 @@ Como he dicho a todos mis estudiantes desde hace más de 30 años, juegue con lo
 
 ### Algunas herramientas básicas para analítica de datos
 
-[Numpy]()
+[Numpy]() esta es la biblioteca básica de cálculo numérico, incluye un conjunto importante de estruccutras de datos ad hoc, como por ejemplo arreglos (matrices) y operaciones entre ellas.
 
-[Matplotlib]()
+[Matplotlib](https://matplotlib.org/) es el núcleo de graficación para Python, es sumamente sencillo de usar y su sintaxis es muy similar a la sintaxis gráfica de matlab.
 
 [Seaborg]()
 
