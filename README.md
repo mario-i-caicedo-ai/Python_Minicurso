@@ -37,7 +37,17 @@ Como he dicho a todos mis estudiantes desde hace más de 30 años, juegue con lo
 
 [Funciones en Python](Cuadernos_Jupyter/FUNCIONES_I.ipynb)
 
+### Algunas herramientas básicas para analítica de datos
+
+[Numpy]()
+
+[Matplotlib]()
+
+[Seaborg]()
+
 [Pandas](Cuadernos_Jupyter/Introduccion_a_PANDAS.ipynb)
+
+[scikit-learn](https://scikit-learn.org/stable/)
 
 ## Recursos Cloud
 
