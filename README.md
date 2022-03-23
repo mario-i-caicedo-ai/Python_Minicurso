@@ -11,10 +11,10 @@ El formato del curso es en términos de cuadernos jupyter. AL abrir un cuaderno,
 Para aprender más acerca de los cuadernos  jupyter y del servicio cloud sobre el que estaremos corriéndolos en este curso, sírvase hacer click en este enlace [Colab](https://colab.research.google.com/)
 
 
-[Introducción a Python y sus estructuras de adots nativas](Cuadernos_Jupyter/CL_I_ESTRUCTURAS_DE_DATOS_NATIVAS.ipynb)
+[Introducción a Python y sus estructuras de datos nativas](Cuadernos_Jupyter/CL_I_ESTRUCTURAS_DE_DATOS_NATIVAS.ipynb)
 
 [Introducción a Python y sus estructuras de adots nativas](Cuadernos_Jupyter/CL_I_ESTRUCTURAS_DE_DATOS_NATIVAS.ipynb)
 
-[Introducción a Python y sus estructuras de adots nativas](Cuadernos_Jupyter/CL_I_ESTRUCTURAS_DE_DATOS_NATIVAS.ipynb)
+[Funciones en Python](Cuadernos_Jupyter/FUNCIONES.ipynb)
 
 [Introducción a Python y sus estructuras de adots nativas](Cuadernos_Jupyter/CL_I_ESTRUCTURAS_DE_DATOS_NATIVAS.ipynb)
