@@ -9,7 +9,7 @@
 
 Una manera de responder algo ingenua puede ser, considerando las siguientes declaraciones acerca del lenguaje:
 
-* EL creador de Python lo diseño para ser facilmente leído por humanos.
+*[Guido Van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) creador de Python lo diseño para ser facilmente leído por humanos.
 * Para fines de 2021, la comunidad de usuarios/desarrolladores Python alcanzaba los 10.1 millones de personas.
 * Python es un lenguaje compacto que incluye elementos de los tres principlaes paradigmas de programación, *imperartiva, OOP y programación funcional*.
 * Empresas como Google, Netflix, Youtube, Facebook, Instagram, Pinterest y ¡hasta la Nasa! utilizan Python para un sinnúmero de aplicaciones.
