@@ -13,7 +13,7 @@ Para aprender más acerca de los cuadernos  jupyter y del servicio cloud sobre e
 
 [Introducción a Python y sus estructuras de datos nativas](Cuadernos_Jupyter/CL_I_ESTRUCTURAS_DE_DATOS_NATIVAS.ipynb)
 
-[Introducción a Python y sus estructuras de adots nativas](Cuadernos_Jupyter/CL_I_ESTRUCTURAS_DE_DATOS_NATIVAS.ipynb)
+[Control de Flujo]()
 
 [Funciones en Python](Cuadernos_Jupyter/FUNCIONES_I.ipynb)
 
