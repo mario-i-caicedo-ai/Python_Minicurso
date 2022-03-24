@@ -3,6 +3,10 @@
   <img src="PICS/python-que-es.jpg" width="445" title="hover text">
 </p>
 
+## Nota:
+
+Para abrir los enlaces en un tabulador alterno, utilie: "Ctrl"+click
+
 ## Introducción
 
 ### ¿Por qué [Python](https://www.python.org/)? 
