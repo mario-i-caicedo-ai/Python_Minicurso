@@ -33,7 +33,9 @@ Una manera de responder algo ingenua puede ser, considerando las siguientes decl
 * Empresas como Google, Netflix, Youtube, Facebook, Instagram, Pinterest y ¡hasta la Nasa! utilizan Python para un sinnúmero de aplicaciones.
 * Y ... finalmente, el costo: Python es software libre.
 
-Python tiene algunas particularidades, para empezar, es un lenguaje de propósito general. Es un lenguaje "pequeño", en el sentido de que carece de cosas como cálculo de raices, funciones trigonométricas, etc. Ahora bien, esas particularidades que alguien de la vieja guardia podría considerar debilidades, constituyen la gran ventaja del lenguaje. En efecto, la enorme comunidad de pythonistas, ha desarrollado un conjiunto de ecosistemas que convierten a Python en una herramienta extremadamente poderosa. Así, por ejemplo, [Django](https://www.djangoproject.com/), es una biblioteca que permite desarrollo web, Scipy es una biblioteca para cálculos cientpificos, TensorFlow es una de varias herramientas para aprendizaje profundo. 
+Python tiene algunas particularidades, para empezar, es un lenguaje de propósito general. Es un lenguaje "pequeño", en el sentido de que carece de cosas como cálculo de raices, funciones trigonométricas, etc. Ahora bien, esas particularidades que alguien de la vieja guardia podría considerar debilidades, constituyen la gran ventaja del lenguaje. En efecto, la enorme comunidad de pythonistas, ha desarrollado un conjiunto de ecosistemas que convierten a Python en una herramienta extremadamente poderosa. Así, por ejemplo, [Django](https://www.djangoproject.com/), es una biblioteca que permite desarrollo web, Scipy es una biblioteca para cálculos científicos, TensorFlow es una de varias herramientas para aprendizaje profundo. 
+
+Por cierto, si usted desea seguir usando Excel como su herramienta principal para la analítica, Python le permitie extender ampliamente las posibilidades de [Excel](https://www.youtube.com/watch?v=WcDaZ67TVRo). 
 
 ### Descripción del curso
 
