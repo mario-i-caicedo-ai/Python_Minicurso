@@ -1,4 +1,10 @@
 <p align="center">
+  Python, una introducción 
+</p>
+
+
+
+<p align="center">
   <img src="PICS/Python-logo.png" width="300" title="hover text">
   <img src="PICS/python-que-es.jpg" width="445" title="hover text">
 </p>
