@@ -33,7 +33,7 @@ Como he dicho a todos mis estudiantes desde hace más de 30 años, juegue con lo
 
  [Introducción a Python y sus estructuras de datos nativas](Cuadernos_Jupyter/CL_I_ESTRUCTURAS_DE_DATOS_NATIVAS.ipynb)
 
-[Control de Flujo]()
+[Control del flujo de ejecución](ESTRUCTURAS_DE_CONTROL.ipynb)
 
 [Funciones en Python](Cuadernos_Jupyter/FUNCIONES_I.ipynb)
 
