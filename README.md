@@ -63,7 +63,7 @@ Como he dicho a todos mis estudiantes desde hace más de 30 años, juegue con lo
 
 [Matplotlib](https://matplotlib.org/) es el núcleo de graficación para Python, es sumamente sencillo de usar y su sintaxis es muy similar a la sintaxis gráfica de matlab.
 
-[Seaborn](https://seaborn.pydata.org/)
+[Seaborn](https://seaborn.pydata.org/) esta es una biblioteca de visualización basada en matplotlib quepermie crear gráficos de una altísima calidad.
 
 [Pandas](Cuadernos_Jupyter/Introduccion_a_PANDAS.ipynb) esta biblioteca es el núcleo del ecosistema de ciencia de datos, con sus dos estructuras de datos básicas, **Pandas Series** y **DataFrames**, permite leer, manipular y escribir tablas de datos de muy diveros orígenes y formatois, incluyendo, evidentemente, archivos csv y xls.
 
