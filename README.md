@@ -8,9 +8,7 @@
 </p>
 
 
-## Nota:
-
-Para abrir los enlaces en un tabulador alterno, utilie: "Ctrl"+click
+**Nota:** Para abrir los enlaces en un tabulador alterno, utilie: "Ctrl"+click
 
 ## Introducción
 
