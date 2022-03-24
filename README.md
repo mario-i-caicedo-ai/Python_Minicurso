@@ -65,9 +65,11 @@ Como he dicho a todos mis estudiantes desde hace más de 30 años, juegue con lo
 
 [Seaborn](https://seaborn.pydata.org/)
 
-[Pandas](Cuadernos_Jupyter/Introduccion_a_PANDAS.ipynb)
+[Pandas](Cuadernos_Jupyter/Introduccion_a_PANDAS.ipynb) esta biblioteca es el núcleo del ecosistema de ciencia de datos, con sus dos estructuras de datos básicas, **Pandas Series** y **DataFrames**, permite leer, manipular y escribir tablas de datos de muy diveros orígenes y formatois, incluyendo, evidentemente, archivos csv y xls.
 
-[scikit-learn](https://scikit-learn.org/stable/)
+[scikit-learn](https://scikit-learn.org/stable/) Esta biblioteca contiene módulos para una plétora de técnicas de **Machime Learning**, incluyendo, entre muchas otras, regresiones lineales y logística, algoritmos de agrupamiento (**clustering**).
+
+[TensorFlow](https://www.tensorflow.org/) Esta es una biblioteca fundamental para aprendizaje profundo (**Deep Learning**), permite definir topologías de redes neuronales para diferentes aplicaciones además de permitir definir las funciones de activación, las métricas de aprendizaje, escoger los algoritmos de optimización y afinar los hiperparámateros. La versión 2 (es la versión actual) incorpora [keras](https://keras.io/) una API que facilita enormemente el usio de TensorFlow. 
 
 ## Recursos Cloud
 
