@@ -8,7 +8,10 @@
 </p>
 
 
-**Nota:** Para abrir los enlaces en un tabulador alterno, utilie: "Ctrl"+click
+**Notas:** 
+
+* Para abrir los enlaces en un tabulador alterno, utilie: "Ctrl"+click (lamentablemente, GitHub ún carece de una herramienta natural para lograr esto)
+* Este curso/repositorio está en constucción permanente, regrse de vez en cuando a ver que cambios encuentra.
 
 ## Introducción
 
@@ -58,7 +61,7 @@ Como he dicho a todos mis estudiantes desde hace más de 30 años, juegue con lo
 
 [Matplotlib](https://matplotlib.org/) es el núcleo de graficación para Python, es sumamente sencillo de usar y su sintaxis es muy similar a la sintaxis gráfica de matlab.
 
-[Seaborg]()
+[Seaborn](https://seaborn.pydata.org/)
 
 [Pandas](Cuadernos_Jupyter/Introduccion_a_PANDAS.ipynb)
 
