@@ -10,8 +10,8 @@
 
 **Notas:** 
 
-* Para abrir los enlaces en un tabulador alterno, utilie: "Ctrl"+click (lamentablemente, GitHub ún carece de una herramienta natural para lograr esto)
-* Este curso/repositorio está en constucción permanente, regrse de vez en cuando a ver que cambios encuentra.
+* Para abrir los enlaces en un tabulador alterno, utilice: "Ctrl"+click (lamentablemente, GitHub aún carece de una herramienta natural para lograr esto)
+* Este curso/repositorio está en constucción permanente, regrese de vez en cuando a ver que cambios encuentra.
 
 ## Introducción
 
@@ -57,7 +57,9 @@ Como he dicho a todos mis estudiantes desde hace más de 30 años, juegue con lo
 
 ### Algunas herramientas básicas para analítica de datos
 
-[Numpy]() esta es la biblioteca básica de cálculo numérico, incluye un conjunto importante de estruccutras de datos ad hoc, como por ejemplo arreglos (matrices) y operaciones entre ellas.
+[Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython-ebook/dp/B075X4LT6K). Este libro, escrito por [Wes McKinney](https://en.wikipedia.org/wiki/Wes_McKinney), es, muy posiblemente la mejor refernecia de Python que este servidor de ustedes haya encontrado, lo recomiendo sin la menor reserva.
+
+[Numpy]() Esta es la biblioteca básica de cálculo numérico, incluye un conjunto importante de estruccutras de datos ad hoc, como por ejemplo arreglos (matrices) y operaciones entre ellas.
 
 [Matplotlib](https://matplotlib.org/) es el núcleo de graficación para Python, es sumamente sencillo de usar y su sintaxis es muy similar a la sintaxis gráfica de matlab.
 
