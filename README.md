@@ -7,10 +7,6 @@
   <H1> Python, una introducción </H1>
 </p>
 
-<p align="center">
-  <H2> Mario I. Caicedo </H2>
-</p>
-
 
 **Notas:** 
 
@@ -29,15 +25,15 @@ A menudo, los programadores se enamoran de Python debido a la mayor productivida
 
 ### ¿Por qué [Python](https://www.python.org/)? 
 
-Una manera de responder algo ingenua puede ser, considerando las siguientes declaraciones acerca del lenguaje:
+Una manera de responder, algo ingenua, puede reducirse a considerar las siguientes declaraciones acerca del lenguaje:
 
-* [Guido Van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) creador de Python lo diseño para ser facilmente leído por humanos.
-* Para fines de 2021, la comunidad de usuarios/desarrolladores Python alcanzaba los 10.1 millones de personas.
+* [Guido Van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) creador de Python lo diseño para ser *fácilmente* leído por humanos.
 * Python es un lenguaje compacto que incluye elementos de los tres principlaes paradigmas de programación, *imperartiva, OOP y programación funcional*.
+* La comunidad de usuarios/desarrolladores Python es bastante grnade, de hecho, para fines de 2021, alcanzaba los 10.1 millones de personas.
 * Empresas como Google, Netflix, Youtube, Facebook, Instagram, Pinterest y ¡hasta la Nasa! utilizan Python para un sinnúmero de aplicaciones.
 * Y ... finalmente, el costo: Python es software libre.
 
-Python tiene algunas particularidades, para empezar, es un lenguaje de propósito general. Es un lenguaje "pequeño", en el sentido de que carece de cosas como cálculo de raices, funciones trigonométricas, etc. Ahora bien, esas particularidades que alguien de la vieja guardia podría considerar debilidades, constituyen la gran ventaja del lenguaje. En efecto, la enorme comunidad de pythonistas, ha desarrollado un conjiunto de ecosistemas que convierten a Python en una herramienta extremadamente poderosa. Así, por ejemplo, [Django](https://www.djangoproject.com/), es una biblioteca que permite desarrollo web, Scipy es una biblioteca para cálculos científicos, TensorFlow es una de varias herramientas para aprendizaje profundo. 
+Python tiene algunas particularidades, para empezar, es un lenguaje de propósito general. Es un lenguaje *pequeño*, en el sentido de que carece de cosas como cálculo de raices, funciones trigonométricas, etc. Ahora bien, esas particularidades que alguien de la vieja guardia podría considerar debilidades, constituyen la gran ventaja del lenguaje. En efecto, la enorme comunidad de pythonistas, ha desarrollado un conjiunto de ecosistemas que convierten a Python en una herramienta extremadamente poderosa. Así, por ejemplo, [Django](https://www.djangoproject.com/), es una biblioteca que permite desarrollo web, [Scipy](https://scipy.org/) es una biblioteca para cálculos científicos y [TensorFlow](https://www.tensorflow.org/) es una de varias herramientas para aprendizaje profundo. 
 
 Por cierto, si usted desea seguir usando Excel como su herramienta principal para la analítica, Python le permitie extender ampliamente las posibilidades de [Excel](https://www.youtube.com/watch?v=WcDaZ67TVRo). 
 
@@ -51,7 +47,7 @@ Siguiendo la intención de Van Rossum, en ningún momento se presupone que usted
 
 Si usted tiene abierta una cuenta de google en su navegador (browser) de preferencia, al abrir cualquiera de los cuadernos de este curso, google creará para usted una carpeta denominada **Colab Notebooks** que aparecerá en su googledrive. Allí se almacenará una copia del cuaderno que usted abrió en primera instancia, copia que puede utilizar a discrersión sin temor de estar dañando algo de lo que se encuentra en el repositorio original. Si no tiene una cuenta en google, no podrá guardar su trabajo.
 
-Como he dicho a todos mis estudiantes desde hace más de 30 años, juegue con lo que está aprendiendo, tómeselo a juego, verá que no hay mejor *mind set* que el de la curiosidad y la libre exploración para aprender, no solo python, sino cualquier cosa que desee.
+Como he dicho a todos mis estud[TensorFlow](https://www.tensorflow.org/)iantes desde hace más de 30 años, juegue con lo que está aprendiendo, tómeselo a juego, verá que no hay mejor *mind set* que el de la curiosidad y la libre exploración para aprender, no solo python, sino cualquier cosa que desee.
 
 ## Módulos y Cuadernos del Curso
 
