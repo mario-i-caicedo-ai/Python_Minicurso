@@ -7,6 +7,10 @@
   <H1> Python, una introducción </H1>
 </p>
 
+<p align="center">
+  <H2> Mario I. Caicedo </H2>
+</p>
+
 
 **Notas:** 
 
