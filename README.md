@@ -28,12 +28,12 @@ A menudo, los programadores se enamoran de Python debido a la mayor productivida
 Una manera de responder, algo ingenua, puede reducirse a considerar las siguientes declaraciones acerca del lenguaje:
 
 * [Guido Van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) creador de Python lo diseño para ser *fácilmente* leído por humanos.
-* Python es un lenguaje compacto que incluye elementos de los tres principlaes paradigmas de programación, *imperartiva, OOP y programación funcional*.
+* Python es un lenguaje compacto que incluye elementos de los tres principlaes paradigmas de programación: *imperartiva, OOP y programación funcional*.
 * La comunidad de usuarios/desarrolladores Python es bastante grnade, de hecho, para fines de 2021, alcanzaba los 10.1 millones de personas.
-* Empresas como Google, Netflix, Youtube, Facebook, Instagram, Pinterest y ¡hasta la Nasa! utilizan Python para un sinnúmero de aplicaciones.
-* Y ... finalmente, el costo: Python es software libre.
+* Empresas como Google, Netflix, Youtube, Facebook, Instagram, Pinterest y ¡hasta la NASA! utilizan Python para un sinnúmero de aplicaciones.
+* Y ... finalmente, el costo: ¡Python es software libre!.
 
-Python tiene algunas particularidades, para empezar, es un lenguaje de propósito general. Es un lenguaje *pequeño*, en el sentido de que carece de cosas como cálculo de raices, funciones trigonométricas, etc. Ahora bien, esas particularidades que alguien de la vieja guardia podría considerar debilidades, constituyen la gran ventaja del lenguaje. En efecto, la enorme comunidad de pythonistas, ha desarrollado un conjiunto de ecosistemas que convierten a Python en una herramienta extremadamente poderosa. Así, por ejemplo, [Django](https://www.djangoproject.com/), es una biblioteca que permite desarrollo web, [Scipy](https://scipy.org/) es una biblioteca para cálculos científicos y [TensorFlow](https://www.tensorflow.org/) es una de varias herramientas para aprendizaje profundo. 
+Python tiene algunas idiosincrasias, para empezar, es un lenguaje de propósito general. Es un lenguaje *pequeño*, en el sentido de que carece de cosas como cálculo de raices, funciones trigonométricas, etc. Ahora bien, esas particularidades que alguien de la vieja guardia podría considerar debilidades, constituyen la gran ventaja del lenguaje. En efecto, la enorme comunidad de *pythonistas*, ha desarrollado un conjunto de ecosistemas que convierten a Python en una herramienta extremadamente poderosa. Así, por ejemplo, [Django](https://www.djangoproject.com/), es una biblioteca que permite desarrollo web, [Scipy](https://scipy.org/) es una biblioteca para cálculos científicos y [TensorFlow](https://www.tensorflow.org/) es una de varias herramientas para aprendizaje profundo(Deep Learning). 
 
 Por cierto, si usted desea seguir usando Excel como su herramienta principal para la analítica, Python le permitie extender ampliamente las posibilidades de [Excel](https://www.youtube.com/watch?v=WcDaZ67TVRo). 
 
@@ -45,9 +45,9 @@ El formato de este curso no requiere ninguna instalación de Python en su máqui
 
 Siguiendo la intención de Van Rossum, en ningún momento se presupone que usted deba estar familiarizado con algún lenguaje de programación. 
 
-Si usted tiene abierta una cuenta de google en su navegador (browser) de preferencia, al abrir cualquiera de los cuadernos de este curso, google creará para usted una carpeta denominada **Colab Notebooks** que aparecerá en su googledrive. Allí se almacenará una copia del cuaderno que usted abrió en primera instancia, copia que puede utilizar a discrersión sin temor de estar dañando algo de lo que se encuentra en el repositorio original. Si no tiene una cuenta en google, no podrá guardar su trabajo.
+Si usted tiene abierta una cuenta de Google en su navegador (browser) de preferencia, al abrir cualquiera de los cuadernos de este curso, Google creará para usted una carpeta denominada **Colab Notebooks** que aparecerá en su [Google Drive](https://www.google.com/drive/). Allí se almacenará una copia del cuaderno que usted abrió en primera instancia, copia que puede utilizar a discreción sin temor a estar *dañando algo* de lo que se encuentra en el repositorio original. Si no tiene una cuenta en Google, no podrá guardar su trabajo.
 
-Como he dicho a todos mis estud[TensorFlow](https://www.tensorflow.org/)iantes desde hace más de 30 años, juegue con lo que está aprendiendo, tómeselo a juego, verá que no hay mejor *mind set* que el de la curiosidad y la libre exploración para aprender, no solo python, sino cualquier cosa que desee.
+Como he dicho a todos mis estudiantes desde hace más de 30 años, diviértase con lo que está aprendiendo, tómeselo a juego, verá que no hay mejor *mind set* que el de la curiosidad y la libre exploración para aprender, no solo Python, sino cualquier cosa que desee.
 
 ## Módulos y Cuadernos del Curso
 
@@ -59,25 +59,25 @@ Como he dicho a todos mis estud[TensorFlow](https://www.tensorflow.org/)iantes d
 
 ### Algunas herramientas básicas para analítica de datos
 
-[Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython-ebook/dp/B075X4LT6K). Este libro, escrito por [Wes McKinney](https://en.wikipedia.org/wiki/Wes_McKinney), es, muy posiblemente la mejor refernecia de Python que este servidor de ustedes haya encontrado, lo recomiendo sin la menor reserva.
+[Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython-ebook/dp/B075X4LT6K). Este libro, escrito por [Wes McKinney](https://en.wikipedia.org/wiki/Wes_McKinney), es, muy posiblemente la mejor referencia de Python que este servidor de ustedes haya encontrado, lo recomiendo sin la menor reserva.
 
-[Numpy]() Esta es la biblioteca básica de cálculo numérico, incluye un conjunto importante de estruccutras de datos ad hoc, como por ejemplo arreglos (matrices) y operaciones entre ellas.
+[Numpy](https://numpy.org/) Esta es la biblioteca básica de cálculo numérico, incluye un conjunto importante de estructuras de datos diseñadas ad hoc, como por ejemplo arreglos (matrices) y operaciones entre ellas.
 
 [Matplotlib](https://matplotlib.org/) es el núcleo de graficación para Python, es sumamente sencillo de usar y su sintaxis es muy similar a la sintaxis gráfica de matlab.
 
-[Seaborn](https://seaborn.pydata.org/) esta es una biblioteca de visualización basada en matplotlib quepermie crear gráficos de una altísima calidad.
+[Seaborn](https://seaborn.pydata.org/) es una biblioteca de visualización basada en matplotlib que permite crear gráficos de una altísima calidad.
 
-[Pandas](Cuadernos_Jupyter/Introduccion_a_PANDAS.ipynb) esta biblioteca es el núcleo del ecosistema de ciencia de datos, con sus dos estructuras de datos básicas, **Pandas Series** y **DataFrames**, permite leer, manipular y escribir tablas de datos de muy diveros orígenes y formatois, incluyendo, evidentemente, archivos csv y xls.
+[Pandas](Cuadernos_Jupyter/Introduccion_a_PANDAS.ipynb) esta biblioteca es el núcleo del ecosistema de **Ciencia de Datos**, con sus dos estructuras de datos básicas, **Pandas Series** y **DataFrames**, permite leer, manipular y escribir tablas de datos de muy diveros orígenes y formatos, incluyendo, evidentemente, archivos csv y xls.
 
-[scikit-learn](https://scikit-learn.org/stable/) Esta biblioteca contiene módulos para una plétora de técnicas de **Machime Learning**, incluyendo, entre muchas otras, regresiones lineales y logística, algoritmos de agrupamiento (**clustering**).
+[scikit-learn](https://scikit-learn.org/stable/) Esta biblioteca contiene módulos para una plétora de técnicas de **Machime Learning**, incluyendo, entre muchas otras, regresiones lineales y logística, algoritmos de agrupamiento (**clustering**) y mi clasificador predilecto, **Naive Bayes**.
 
-[TensorFlow](https://www.tensorflow.org/) Esta es una biblioteca fundamental para aprendizaje profundo (**Deep Learning** o DL), permite definir topologías de redes neuronales para diferentes aplicaciones además de permitir definir las funciones de activación, las métricas de aprendizaje, escoger los algoritmos de optimización y afinar los hiperparámateros. La versión 2 (es la versión actual) incorpora [keras](https://keras.io/) una API que facilita enormemente el usio de TensorFlow. El libro [Deep Learning With Python](https://www.amazon.com/Deep-Learning-Python-Fran%C3%A7ois-Chollet-ebook/dp/B0977ZRV1J/ref=sr_1_1?crid=8UDWCXZEOT12&keywords=chollet&qid=1648140865&s=digital-text&sprefix=chollet%2Cdigital-text%2C198&sr=1-1) de [Francois Chollet](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Chollet), creador de Keras, es probablemente, la referencia fundamental para entrar al mundo del DL.
+[TensorFlow](https://www.tensorflow.org/) Esta es una biblioteca fundamental para aprendizaje profundo (**Deep Learning** o DL), permite definir topologías de redes neuronales para diferentes aplicaciones, especificar las funciones de activación, las métricas de aprendizaje, escoger los algoritmos de optimización y afinar los hiperparámateros. La versión 2 (es la versión actual) incorpora [keras](https://keras.io/) una API que facilita enormemente el uso de TensorFlow. El libro [Deep Learning With Python](https://www.amazon.com/Deep-Learning-Python-Fran%C3%A7ois-Chollet-ebook/dp/B0977ZRV1J/ref=sr_1_1?crid=8UDWCXZEOT12&keywords=chollet&qid=1648140865&s=digital-text&sprefix=chollet%2Cdigital-text%2C198&sr=1-1) de [Francois Chollet](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Chollet), creador de Keras, es probablemente, la referencia fundamental para entrar al mundo del DL.
 
 ## Recursos Cloud
 
 * Si desea tener una insatlación local de Python, le recomiendo que descarge [Anaconda](https://www.anaconda.com/), un ambiente que le permitirá tener acceso a todo el ecosistema de bibliotecas de Python.
 * [RealPython](https://realpython.com/) contiene una cantidad importante de tutoriales.
-* Si le interesa la ciencia de datos (CD) y el inglés no representa un obstáculo, [kaggle](https://www.kaggle.com/) una comunidad dedicada a la CD ofrece cursos y proyectos con datos reales que le permitirán entrenarse hasta alcanzar un muy buen nivel. 
+* Si le interesa la ciencia de datos (CD), [kaggle](https://www.kaggle.com/) una comunidad dedicada a la CD, ofrece cursos y proyectos con datos reales que le permitirán entrenarse hasta alcanzar un muy buen nivel. 
 
 
 
