@@ -79,5 +79,7 @@ Como he dicho a todos mis estudiantes desde hace más de 30 años, diviértase c
 * [RealPython](https://realpython.com/) contiene una cantidad importante de tutoriales.
 * Si le interesa la ciencia de datos (CD), [kaggle](https://www.kaggle.com/) una comunidad dedicada a la CD, ofrece cursos y proyectos con datos reales que le permitirán entrenarse hasta alcanzar un muy buen nivel. 
 
+## Ejemplos
 
+[Regresión Lineal Simple](Cuadernos_Jupyter/Intro_Python_fit_line.ipynb)
 
