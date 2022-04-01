@@ -57,6 +57,20 @@ Como he dicho a todos mis estudiantes desde hace más de 30 años, diviértase c
 
 [Funciones en Python](Cuadernos_Jupyter/FUNCIONES_I.ipynb)
 
+## Ejemplos
+
+### **Aprendizaje Automático**
+
+  * [Regresión Lineal Simple](Cuadernos_Jupyter/Intro_Python_fit_line.ipynb)
+  * [Agrupamiento (clustering)](Cuadernos_Jupyter/AA_KMEANS_IRIS.ipynb)
+## Ejemplos
+
+### **Aprendizaje Automático**
+
+  * [Regresión Lineal Simple](Cuadernos_Jupyter/Intro_Python_fit_line.ipynb)
+  * [Agrupamiento (clustering)](Cuadernos_Jupyter/AA_KMEANS_IRIS.ipynb)
+
+
 ### Algunas herramientas básicas para analítica de datos
 
 [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython-ebook/dp/B075X4LT6K). Este libro, escrito por [Wes McKinney](https://en.wikipedia.org/wiki/Wes_McKinney), es, muy posiblemente la mejor referencia de Python que este servidor de ustedes haya encontrado, lo recomiendo sin la menor reserva.
@@ -79,10 +93,4 @@ Como he dicho a todos mis estudiantes desde hace más de 30 años, diviértase c
 * [RealPython](https://realpython.com/) contiene una cantidad importante de tutoriales.
 * Si le interesa la ciencia de datos (CD), [kaggle](https://www.kaggle.com/) una comunidad dedicada a la CD, ofrece cursos y proyectos con datos reales que le permitirán entrenarse hasta alcanzar un muy buen nivel. 
 
-## Ejemplos
-
-### **Aprendizaje Automático**
-
-  * [Regresión Lineal Simple](Cuadernos_Jupyter/Intro_Python_fit_line.ipynb)
-  * [Agrupamiento (clustering)](Cuadernos_Jupyter/AA_KMEANS_IRIS.ipynb)
 
