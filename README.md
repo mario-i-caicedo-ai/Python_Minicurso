@@ -64,7 +64,7 @@ Como he dicho a todos mis estudiantes desde hace más de 30 años, diviértase c
   * [Regresión Lineal Simple](Cuadernos_Jupyter/Intro_Python_fit_line.ipynb)
   * [Agrupamiento (clustering)](Cuadernos_Jupyter/AA_KMEANS_IRIS.ipynb)
   
-### *Matemáticas**
+### **Matemáticas**
 
   * [Solución numérica de Ecuaciones Diferenciales](Cuadernos_Jupyter/Sol_Num_de_EDO.ipynb)
 
@@ -75,7 +75,7 @@ Como he dicho a todos mis estudiantes desde hace más de 30 años, diviértase c
 [Numpy](https://numpy.org/) Esta es la biblioteca básica de cálculo numérico, incluye un conjunto importante de estructuras de datos diseñadas ad hoc, como por ejemplo arreglos (matrices) y operaciones entre ellas.
 
 [Matplotlib](https://matplotlib.org/) es el núcleo de graficación para Python, es sumamente sencillo de usar y su sintaxis es muy similar a la sintaxis gráfica de matlab.
-
+Cuadernos_Jupyter/Sol_Num_de_EDO.ipynb
 [Seaborn](https://seaborn.pydata.org/) es una biblioteca de visualización basada en matplotlib que permite crear gráficos de una altísima calidad.
 
 [Pandas](Cuadernos_Jupyter/Introduccion_a_PANDAS.ipynb) esta biblioteca es el núcleo del ecosistema de **Ciencia de Datos**, con sus dos estructuras de datos básicas, **Pandas Series** y **DataFrames**, permite leer, manipular y escribir tablas de datos de muy diveros orígenes y formatos, incluyendo, evidentemente, archivos csv y xls.
@@ -88,6 +88,6 @@ Como he dicho a todos mis estudiantes desde hace más de 30 años, diviértase c
 
 * Si desea tener una insatlación local de Python, le recomiendo que descarge [Anaconda](https://www.anaconda.com/), un ambiente que le permitirá tener acceso a todo el ecosistema de bibliotecas de Python.
 * [RealPython](https://realpython.com/) contiene una cantidad importante de tutoriales.
-* Si le interesa la ciencia de datos (CD), [kaggle](https://www.kaggle.com/) una comunidad dedicada a la CD, ofrece cursos y proyectos con datos reales que le permitirán entrenarse hasta alcanzar un muy buen nivel. 
+* Si le interesa la ciencia de datos (CD), [kaggle](https://wwCuadernos_Jupyter/Sol_Num_de_EDO.ipynbw.kaggle.com/) una comunidad dedicada a la CD, ofrece cursos y proyectos con datos reales que le permitirán entrenarse hasta alcanzar un muy buen nivel. 
 
 
