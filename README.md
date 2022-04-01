@@ -81,5 +81,7 @@ Como he dicho a todos mis estudiantes desde hace más de 30 años, diviértase c
 
 ## Ejemplos
 
-[Regresión Lineal Simple](Cuadernos_Jupyter/Intro_Python_fit_line.ipynb)
+* Aprendizaje Automático
+
+  * [Regresión Lineal Simple](Cuadernos_Jupyter/Intro_Python_fit_line.ipynb)
 
