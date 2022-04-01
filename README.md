@@ -63,13 +63,6 @@ Como he dicho a todos mis estudiantes desde hace más de 30 años, diviértase c
 
   * [Regresión Lineal Simple](Cuadernos_Jupyter/Intro_Python_fit_line.ipynb)
   * [Agrupamiento (clustering)](Cuadernos_Jupyter/AA_KMEANS_IRIS.ipynb)
-## Ejemplos
-
-### **Aprendizaje Automático**
-
-  * [Regresión Lineal Simple](Cuadernos_Jupyter/Intro_Python_fit_line.ipynb)
-  * [Agrupamiento (clustering)](Cuadernos_Jupyter/AA_KMEANS_IRIS.ipynb)
-
 
 ### Algunas herramientas básicas para analítica de datos
 
